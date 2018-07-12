@@ -1,0 +1,6 @@
+c:\users\ajmal\documents\visual studio 2015\Projects\StrategyPatternCSharp\StrategyPatternCSharp\bin\Debug\StrategyPatternCSharp.exe.config
+c:\users\ajmal\documents\visual studio 2015\Projects\StrategyPatternCSharp\StrategyPatternCSharp\bin\Debug\StrategyPatternCSharp.exe
+c:\users\ajmal\documents\visual studio 2015\Projects\StrategyPatternCSharp\StrategyPatternCSharp\bin\Debug\StrategyPatternCSharp.pdb
+c:\users\ajmal\documents\visual studio 2015\Projects\StrategyPatternCSharp\StrategyPatternCSharp\obj\Debug\StrategyPatternCSharp.csprojResolveAssemblyReference.cache
+c:\users\ajmal\documents\visual studio 2015\Projects\StrategyPatternCSharp\StrategyPatternCSharp\obj\Debug\StrategyPatternCSharp.exe
+c:\users\ajmal\documents\visual studio 2015\Projects\StrategyPatternCSharp\StrategyPatternCSharp\obj\Debug\StrategyPatternCSharp.pdb
